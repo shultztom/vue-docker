@@ -1,0 +1,1 @@
+docker push tks23/vue-docker:latest
