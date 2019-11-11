@@ -1,0 +1,1 @@
+docker build -t tks23/vue-docker:latest .
